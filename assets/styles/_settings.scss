@@ -41,8 +41,7 @@ a, a:visited{
 }
 
 body {
-    background: url('/assets/img/sunrise-5438121_1280.jpg') fixed center/cover;
-    background-color: rgba(0, 128, 0, 0.51);
+    background: url(../styles/img/bg.jpg) fixed center/cover;
     text-align: center;
     font-family: $font2;
     max-width: 1300px;
